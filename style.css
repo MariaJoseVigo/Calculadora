@@ -9,7 +9,7 @@ body{
 #contenedor{
     width: 900px;
     height: 500px;
-    background-color: antiquewhite;
+    background-color: rgb(117, 167, 125);
     text-align: center;
     /* Estas 3 lineas se encargan de centrar el div vertical y horizontalmente */
     position: absolute;
@@ -26,7 +26,7 @@ body{
 }
 
 #detalle{
-    background: #FF416C;
+    background: #093a08;
     /* Con estas 3 lineas vamos a hacer que los divs queden lado a lado */
     width: 50%;
     height: 100%;
@@ -54,9 +54,9 @@ button {
 	font-weight: bold;
 	padding: 12px 45px;
 	border-radius: 30px;
-	background-color: #FF416C;
-	border: 1px solid #FF416C;
-	color: #FFFFFF;
+	background-color: #093a08;
+	border: 1px solid #093a08;
+	color: #ebf1ed;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	transition: transform 20ms ease-in;
